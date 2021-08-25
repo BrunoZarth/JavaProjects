@@ -8,6 +8,10 @@ public class HelloGitAgain {
 		for(int i = 0; i <= 100; i++) {
 			System.out.println("This is a simple git test.");
 		}
+		
+		String string = "One more test";
+		
+		System.out.println(string);
 
 	}
 
